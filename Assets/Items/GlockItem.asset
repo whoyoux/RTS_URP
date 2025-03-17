@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GlockItem
   m_EditorClassIdentifier: 
   name: Glock
-  icon: {fileID: 21300000, guid: 09ce228d0a0939543ad79dc38e2ec562, type: 3}
+  icon: {fileID: 21300000, guid: 758948e307626bf4d97fd3ca02d2f996, type: 3}
   isDefaultItem: 0
   isStackable: 0
   maxStackSize: 1

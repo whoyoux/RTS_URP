@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AmmoItem
   m_EditorClassIdentifier: 
   name: Ammunition
-  icon: {fileID: 21300000, guid: 142cded269178db46b73eac78c0e5997, type: 3}
+  icon: {fileID: 21300000, guid: c974824c84b92564b9264737434431e5, type: 3}
   isDefaultItem: 0
-  isStackable: 0
-  maxStackSize: 1
+  isStackable: 1
+  maxStackSize: 128
